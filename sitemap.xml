@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>/tags/vitafoods/</loc>
+    <lastmod>2019-09-29T14:52:35+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/%E5%8F%83%E5%8A%A0%E5%B1%95%E8%A6%BD/</loc>
     <lastmod>2019-09-29T14:52:35+00:00</lastmod>
   </url>
@@ -28,7 +33,7 @@
   </url>
   
   <url>
-    <loc>/2018/10/03/%e6%9d%b1%e5%8d%94%e7%b0%a1%e4%bb%8b/</loc>
+    <loc>/2019/09/29/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8F%83%E5%B1%95vitafoods/</loc>
     <lastmod>2019-09-29T14:52:35+00:00</lastmod>
   </url>
   
@@ -143,7 +148,7 @@
   </url>
   
   <url>
-    <loc>/2018/10/03/%e6%9d%b1%e5%8d%94%e7%b0%a1%e4%bb%8b/</loc>
+    <loc>/2018/10/03/%E6%9D%B1%E5%8D%94%E7%B0%A1%E4%BB%8B/</loc>
     <lastmod>2018-10-03T14:52:35+00:00</lastmod>
   </url>
   
@@ -183,88 +188,13 @@
   </url>
   
   <url>
-    <loc>/2014/09/28/criando-um-novo-tema/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2014/09/28/cr%C3%A9er-un-nouveau-th%C3%A8me/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2014/09/28/ein-neues-thema-erstellen/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2014/09/28/tworzenie-nowego-motywu/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2014/04/02/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2014/04/02/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2014/04/02/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2014/04/02/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2014/04/02/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2014/04/02/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2014/03/10/migrate-to-hugo-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2014/03/10/migrate-to-hugo-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2014/03/10/migrate-to-hugo-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
