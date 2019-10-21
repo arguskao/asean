@@ -4,12 +4,27 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2019-09-29T14:52:35+00:00</lastmod>
+    <lastmod>2019-10-21T09:43:41+08:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-09-29T14:52:35+00:00</lastmod>
+    <lastmod>2019-10-21T09:43:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/%E5%8D%B0%E5%B0%BC/</loc>
+    <lastmod>2019-10-21T09:43:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/10/21/%E5%8D%B0%E5%B0%BC%E9%81%B7%E9%83%BD%E6%9D%B1%E5%8A%A0%E9%87%8C%E6%9B%BC%E4%B8%B9/</loc>
+    <lastmod>2019-10-21T09:43:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-21T09:43:41+08:00</lastmod>
   </url>
   
   <url>
@@ -34,11 +49,6 @@
   
   <url>
     <loc>/2019/09/29/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8F%83%E5%B1%95vitafoods/</loc>
-    <lastmod>2019-09-29T14:52:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2019-09-29T14:52:35+00:00</lastmod>
   </url>
   
@@ -94,11 +104,6 @@
   
   <url>
     <loc>/tags/halal/</loc>
-    <lastmod>2019-01-21T02:56:41+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/%E5%8D%B0%E5%B0%BC/</loc>
     <lastmod>2019-01-21T02:56:41+00:00</lastmod>
   </url>
   
