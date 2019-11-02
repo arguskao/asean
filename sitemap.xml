@@ -3,6 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://asean.liverx.org/blog/</loc>
+    <lastmod>2019-11-02T10:08:41+08:00</lastmod>
+    <changefreq>dayly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://asean.liverx.org/categories/</loc>
+    <lastmod>2019-11-02T10:08:41+08:00</lastmod>
+    <changefreq>dayly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://asean.liverx.org/tags/</loc>
+    <lastmod>2019-11-02T10:08:41+08:00</lastmod>
+    <changefreq>dayly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://asean.liverx.org/2019/11/02/%E4%BD%A0%E8%81%BD%E9%81%8E%E5%B7%B4%E6%B7%A1%E5%B3%B6%E5%97%8E/</loc>
+    <lastmod>2019-11-02T10:08:41+08:00</lastmod>
+    <changefreq>dayly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://asean.liverx.org/categories/%E5%8D%B0%E5%B0%BC/</loc>
+    <lastmod>2019-11-02T10:08:41+08:00</lastmod>
+    <changefreq>dayly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://asean.liverx.org/tags/%E6%8A%95%E8%B3%87/</loc>
+    <lastmod>2019-11-02T10:08:41+08:00</lastmod>
+    <changefreq>dayly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://asean.liverx.org/categories/%E6%96%B0%E5%8A%A0%E5%9D%A1/</loc>
+    <lastmod>2019-11-02T10:08:41+08:00</lastmod>
+    <changefreq>dayly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://asean.liverx.org/</loc>
+    <lastmod>2019-11-02T10:08:41+08:00</lastmod>
+    <changefreq>dayly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://asean.liverx.org/tags/%E7%B0%A1%E4%BB%8B/</loc>
+    <lastmod>2019-11-02T10:08:41+08:00</lastmod>
+    <changefreq>dayly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://asean.liverx.org/links/</loc>
     <lastmod>2019-10-25T10:56:02+08:00</lastmod>
     <changefreq>dayly</changefreq>
@@ -10,28 +73,7 @@
   </url>
   
   <url>
-    <loc>https://asean.liverx.org/</loc>
-    <lastmod>2019-10-25T10:56:02+08:00</lastmod>
-    <changefreq>dayly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://asean.liverx.org/blog/</loc>
-    <lastmod>2019-10-21T09:43:41+08:00</lastmod>
-    <changefreq>dayly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://asean.liverx.org/categories/</loc>
-    <lastmod>2019-10-21T09:43:41+08:00</lastmod>
-    <changefreq>dayly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://asean.liverx.org/categories/%E5%8D%B0%E5%B0%BC/</loc>
+    <loc>https://asean.liverx.org/tags/%E5%8D%B0%E5%B0%BC/</loc>
     <lastmod>2019-10-21T09:43:41+08:00</lastmod>
     <changefreq>dayly</changefreq>
     <priority>0.5</priority>
@@ -45,13 +87,6 @@
   </url>
   
   <url>
-    <loc>https://asean.liverx.org/tags/</loc>
-    <lastmod>2019-09-29T14:52:35+00:00</lastmod>
-    <changefreq>dayly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://asean.liverx.org/tags/vitafoods/</loc>
     <lastmod>2019-09-29T14:52:35+00:00</lastmod>
     <changefreq>dayly</changefreq>
@@ -60,13 +95,6 @@
   
   <url>
     <loc>https://asean.liverx.org/tags/%E5%8F%83%E5%8A%A0%E5%B1%95%E8%A6%BD/</loc>
-    <lastmod>2019-09-29T14:52:35+00:00</lastmod>
-    <changefreq>dayly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://asean.liverx.org/categories/%E6%96%B0%E5%8A%A0%E5%9D%A1/</loc>
     <lastmod>2019-09-29T14:52:35+00:00</lastmod>
     <changefreq>dayly</changefreq>
     <priority>0.5</priority>
@@ -180,13 +208,6 @@
   <url>
     <loc>https://asean.liverx.org/2018/12/15/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E9%96%8B%E5%85%AC%E5%8F%B8/</loc>
     <lastmod>2018-12-15T07:43:29+00:00</lastmod>
-    <changefreq>dayly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://asean.liverx.org/tags/%E7%B0%A1%E4%BB%8B/</loc>
-    <lastmod>2018-11-04T14:17:02+00:00</lastmod>
     <changefreq>dayly</changefreq>
     <priority>0.5</priority>
   </url>
